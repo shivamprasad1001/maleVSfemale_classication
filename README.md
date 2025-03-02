@@ -1,6 +1,3 @@
-Here’s an updated README that includes the list of imports for your project:
-
----
 
 # Male vs. Female Classification
 
